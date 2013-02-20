@@ -235,3 +235,27 @@
 [submodule "msmtp"]
 	path = msmtp
 	url = https://github.com/zylon-internet/puppet-msmtp.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/example42/puppet-logrotate
+[submodule "mailx"]
+	path = mailx
+	url = https://github.com/example42/puppet-mailx
+[submodule "lsb"]
+	path = lsb
+	url = https://github.com/example42/puppet-lsb
+[submodule "autofs"]
+	path = autofs
+	url = https://github.com/example42/puppet-autofs
+[submodule "zip"]
+	path = zip
+	url = https://github.com/example42/puppet-zip
+[submodule "samba"]
+	path = samba
+	url = https://github.com/example42/puppet-samba
+[submodule "sysklogd"]
+	path = sysklogd
+	url = https://github.com/example42/puppet-sysklogd
+[submodule "syslog-ng"]
+	path = syslog-ng
+	url = https://github.com/example42/puppet-syslog-ng
